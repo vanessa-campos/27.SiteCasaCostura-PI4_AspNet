@@ -1,0 +1,30 @@
+@model List<Carrinho>
+@{
+    ViewData["Title"] = "Carrinho";
+}
+
+<div>
+    <h3>Carrinho de Orçamento</h3>
+<br>
+    <table class="table">
+        <tr>            
+            <td>Nome do Produto</td>
+            <td>Quantidade</td>
+            <td>Operação</td>
+        </tr>
+
+        @foreach (Carrinho car in Model)
+        {
+            <tr>
+                <td>@car.Produto</td>
+                <td>@car.Quantidade</td>
+                <td>
+                    <a href="/Carrinho/Excluir?Id=@car.Id" onclick="return confirm('Deseja remover o item do carrinho?');">Remover</a>
+                </td>
+            </tr>
+        }
+    </table>
+    <br>
+    <p><button>Concluir Orçamento</button></p>
+    <p><button><a href="/Carrinho/Produtos">Continuar Comprando</a></button></p>    
+</div>

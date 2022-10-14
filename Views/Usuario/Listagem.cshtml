@@ -1,0 +1,40 @@
+@model List<Usuario>
+@{
+    ViewData["Title"] = "Cadastros";
+}
+
+<div>
+	<h3>Usuários Cadastrados</h3>
+<br>
+<div>
+    <table class="table">
+      <tr>
+		    <td>ID</td>
+		    <td>Nome</td>
+		    <td>E-mail</td>
+		    <td>Senha</td>
+		    <td>Data de Nascimento</td>
+		    <td>Telefone</td>
+            <td>CEP</td>
+            <td>Endereço</td>
+            <td>Operações</td>
+	    </tr>
+	
+	    @foreach (Usuario u in Model){
+	    <tr>
+		    <td>@u.Id</td>
+		    <td>@u.Nome</td>
+		    <td>@u.Email</td>
+		    <td>@u.Senha</td>
+		    <td>@u.DataNascimento.ToShortDateString()</td>        
+		    <td>@u.Telefone</td>        
+		    <td>@u.Cep</td>        
+		    <td>@u.Endereco</td>
+		    <td>
+			    <a href="/Usuario/Editar?Id=@u.Id";">Alterar</a>
+			    <a href="/Usuario/Excluir?Id=@u.Id" onclick="return confirm('Deseja remover este item?');">Remover</a>
+		    </td>
+	    </tr>
+        }
+    </table> 
+</div>

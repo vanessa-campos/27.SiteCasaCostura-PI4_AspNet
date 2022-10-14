@@ -1,0 +1,55 @@
+CREATE DATABASE casacostura
+
+CREATE TABLE Usuario(
+	Id int(4) AUTO_INCREMENT Not NULL,
+	Nome varchar(50),
+	Email varchar(50),
+	Senha varchar(15),
+	DataNascimento datetime,
+	Telefone varchar (15),
+	Cep varchar(9),
+	Endereco varchar(80),
+	PRIMARY KEY (Id)
+);
+
+CREATE TABLE Atendimento(
+	Id int(4) AUTO_INCREMENT Not NULL,
+	Nome varchar(50),
+	Email varchar(50),
+	Telefone varchar(15),
+	Mensagem varchar(400),
+	PRIMARY KEY (Id)
+);
+
+CREATE TABLE Produto(
+	Id int(4) AUTO_INCREMENT Not NULL,
+	Nome varchar(50),	
+	Quantidade int(9),
+	PRIMARY KEY (Id)
+);
+
+
+CREATE TABLE Carrinho(
+	Id int(4) AUTO_INCREMENT Not NULL,
+	Usuario int(4),
+	Produto varchar(50),
+	Quantidade int(9),
+	PRIMARY KEY (Id),
+	FOREIGN KEY (Usuario) REFERENCES Usuario(Id),	
+	FOREIGN KEY (Produto) REFERENCES Produto(varchar),
+);
+
+INSERT INTO Produto (Id, Nome, Quantidade) values 
+(1, 'Tecido Tricoline Liso', 5),
+(2, 'Tecido Jacquard Floral', 5),
+(3, 'Plástico  Térmico Xadrez', 10),
+(4, 'Botão 2 Furos Cor', 144),
+(5, 'Botão 4 Furos Transparente', 144),
+(6, 'Botão 4 Furos Perolado', 144),
+(7, 'Linha de Costura Tubo 100m', 10),
+(8, 'Linha Pesponto Tubo 30m', 10),
+(9, 'Linha de Croche Clea 1000m', 3),
+(10, 'Cortina 2,00x2,00m', 3),
+(11, 'Conjunto 6 capas de Cadeiras', 3),
+(12, 'Pano de Prato Pintado a Mão', 5),
+(13, 'Toalha de Banho Bordada', 3);

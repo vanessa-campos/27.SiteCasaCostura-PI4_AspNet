@@ -1,0 +1,32 @@
+@model Atendimento
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<div>
+    <h3>Fale Conosco</h3>
+    <br>
+    <form method="POST" asp-action="Solicitar">
+        <p>
+            <label asp-for="Nome">Seu Nome:</label>
+            <input asp-for="Nome" required>
+        </p>
+        <p>
+            <label asp-for="Email">E-mail:</label>
+            <input asp-for="Email" required>
+        </p>
+        <p>
+            <label asp-for="Telefone">Telefone:</label>
+            <input asp-for="Telefone" required>
+        </p>
+        <p>
+            <label asp-for="Mensagem">Deixe sua mensagem:</label>
+            <br>
+            <textarea asp-for="Mensagem"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+        </p>
+    </form>
+    
+</div>

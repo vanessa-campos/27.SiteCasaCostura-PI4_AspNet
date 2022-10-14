@@ -1,0 +1,93 @@
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csprojAssemblyReference.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.AssemblyInfoInputs.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.AssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csproj.CoreCompileInputs.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.TagHelpers.input.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.TagHelpers.output.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorCoreGenerate.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Carrinho.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Exclusivos.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorTargetAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorTargetAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.exe
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.deps.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.runtimeconfig.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.runtimeconfig.dev.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\CarrinhoVazio.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csproj.CopyComplete
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE4_VanessaCampos.StaticWebAssets.Manifest.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE4_VanessaCampos.StaticWebAssets.xml
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.genruntimeconfig.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.exe
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.deps.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.runtimeconfig.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.runtimeconfig.dev.json
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.dll
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.pdb
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.dll
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csprojAssemblyReference.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.AssemblyInfoInputs.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.AssemblyInfo.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csproj.CoreCompileInputs.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.TagHelpers.input.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.TagHelpers.output.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorCoreGenerate.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorTargetAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.RazorTargetAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.csproj.CopyComplete
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE4_VanessaCampos.StaticWebAssets.Manifest.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE4_VanessaCampos.StaticWebAssets.xml
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.dll
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.pdb
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\PIE4_VanessaCampos.genruntimeconfig.cache
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Carrinho.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Produtos.cshtml.g.cs
+D:\Vanessa Campos\Documentos\EAD_TII\MA.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 04\PIE4_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Exclusivos.cshtml.g.cs

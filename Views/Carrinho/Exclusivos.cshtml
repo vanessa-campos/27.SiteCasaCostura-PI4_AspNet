@@ -1,0 +1,39 @@
+@model List<Produto>
+@{
+    ViewData["Title"] = "Exclusivos";
+}
+
+<div>
+    <h3>Originais da Casa da Costura</h3>
+    <table class="table">
+        <tr>
+            <td><p>Cortina 2,00X2,00M</p></td>
+            <td><p>Conjunto 6 Capas de Cadeira</p></td>  
+        </tr>
+        <tr>
+            <td><img src="~/imagens/cortinavoil.png" height="300"></td>
+            <td><img src="~/imagens/capacadeira.png" height="300"></td>
+        </tr>  
+            <tr>            
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[9].Nome" ;">Adicionar ao Carrinho</a></td>    
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[10].Nome" ;">Adicionar ao Carrinho</a></td>   
+            </tr>  
+    </table>
+
+    <h3>Originais dos Parceiros</h3>
+    <table class="table">
+        <tr>
+            <td><p>Pano de Prato Pintado a Mão</p></td>
+            <td><p>Toalha de Banho Bordada</p></td>  
+        </tr>
+         <tr>
+            <td><img src="~/imagens/panodepratopintado.jpg" height="300"></td>
+            <td><img src="~/imagens/toalhabordada.png" height="300"></td>
+        </tr>  
+            <tr>            
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[11].Nome" ;">Adicionar ao Carrinho</a></td>    
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[12].Nome" ;">Adicionar ao Carrinho</a></td>    
+            </tr>  
+    </table>
+</div>
+

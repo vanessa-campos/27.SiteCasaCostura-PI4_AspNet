@@ -1,0 +1,29 @@
+@model List<Atendimento>
+@{
+    ViewData["Title"] = "Atendimento";
+}
+
+<br>
+<div>    
+	<h3>Atendimentos Solicitados</h3>
+<br>
+    <table class="table">
+        <tr>
+            <td>Nome</td>
+            <td>E-mail</td>
+            <td>Telefone</td>
+            <td>Mensagem</td>
+            <td>Operação</td>
+        </tr>
+
+        @foreach (Atendimento at in Model)
+        {
+            <tr>
+                <td>@at.Nome</td>
+                <td>@at.Email</td>
+                <td>@at.Telefone</td>
+                <td>@at.Mensagem</td>
+                <td><a href="/Home/Excluir?Id=@at.Id" onclick="return confirm('Deseja remover este item?');">Remover</a></td>
+            </tr>
+        }
+</div>

@@ -1,0 +1,64 @@
+@model List<Produto>
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<div>
+    <br>
+        <h3>Tecidos</h3>
+        <table class="table">
+            <tr>
+                <td><p>Tecido Tricoline Liso 1,00X1,50M</p></td>                    
+                <td><p>Tecido Jacquard Floral 1,00X1,40M</p></td>
+                <td><p>Plástico Térmico 80 Xadrez 1,00X1,50M</p></td>
+            </tr>
+            <tr>
+                <td><img src="~/imagens/tecidotricolineliso.png" height="300"></td>
+                <td><img src="~/imagens/tecidojacquardfloral.png" height="300"></td>
+                <td><img src="~/imagens/plasticotermicoxadrez.png" height="300"></td>
+            </tr>   
+            <tr>            
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[0].Nome" ;">Adicionar ao Carrinho</a></td>    
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[1].Nome" ;">Adicionar ao Carrinho</a></td>                  
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[2].Nome" ;">Adicionar ao Carrinho</a></td>    
+            </tr>  
+        </table>            
+        <br>
+        <h3>Botões</h3>
+        <table class="table">
+            <tr>
+                <td><p>Botão 2 Furos Cor</p></td>
+                <td><p>Botão 4 Furos Transparente</p> </td>
+                <td><p>Botão 4 Furos Perolado</p></td>
+            </tr> 
+            <tr>
+                <td><img src="~/imagens/botao2furoscor.jpg" height="300"></td>
+                <td><img src="~/imagens/botao4furostransparente.jpg" height="300"></td>
+                <td><img src="~/imagens/botao4furosperolado.jpg" height="300"></td>
+            </tr>
+            <tr>            
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[3].Nome" ;">Adicionar ao Carrinho</a></td>    
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[4].Nome" ;">Adicionar ao Carrinho</a></td>                  
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[5].Nome" ;">Adicionar ao Carrinho</a></td>    
+            </tr>  
+        </table>
+        <br>
+        <h3>Linhas</h3>
+        <table class="table">    
+            <tr>
+                <td><p>Linha de Costura</p></td>
+                <td><p>Linha Pesponto</p></td>
+                <td><p>Linha de Crochê</p></td>
+            </tr>
+            <tr>
+                <td><img src="~/imagens/linhacostura.png" height="300"></td>
+                <td><img src="~/imagens/linhapesponto.png" height="300"></td>
+                <td><img src="~/imagens/linhacroche.png" height="300"></td>
+            </tr>            
+            <tr>            
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[6].Nome" ;">Adicionar ao Carrinho</a></td>    
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[7].Nome" ;">Adicionar ao Carrinho</a></td>                  
+                <td><a href="/Carrinho/Adicionar?Produto=@Model[8].Nome" ;">Adicionar ao Carrinho</a></td>    
+            </tr> 
+        </table>
+</div>
